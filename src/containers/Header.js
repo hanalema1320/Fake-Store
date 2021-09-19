@@ -1,5 +1,5 @@
 import React from "react";
-//comment
+
 const Header = () => {
   return (
     <div className="ui fixed menu">
